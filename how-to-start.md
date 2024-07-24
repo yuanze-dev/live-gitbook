@@ -18,19 +18,19 @@ description: 手把手教你搭建直播间
 
 第一步：进入首页，选择模版。有横屏和竖屏的模版可供选择，根据你想要的直播场景和直播平台选择
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 
 
 第二步：进入编辑器，调整画面成最佳效果。图片、文字、素材都是可以更改的哦，背景和素材支持上传，还可以上传gif动图哦
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 
 
 第三步：点击「开始直播」，填写推流码，推流码获取方式 [https://docs.lusun.com/live/basic/streamlink.html](https://docs.lusun.com/live/basic/streamlink.html)
 
-<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
